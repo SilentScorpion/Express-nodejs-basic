@@ -1,0 +1,22 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "Demo using npm and node.js and express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "reload": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "Ajay Kamath",
+  "license": "ISC"
+}
