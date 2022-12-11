@@ -4,7 +4,7 @@
   "description": "Demo using npm and node.js and express",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "reload": "^3.0.1"
   },
   "devDependencies": {},
